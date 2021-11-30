@@ -1,4 +1,4 @@
-module github.com/newQian/sqlite
+module github.com/hello-xnew/sqlite
 
 go 1.17
 
