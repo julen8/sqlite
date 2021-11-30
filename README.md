@@ -1,6 +1,6 @@
 # GORM Sqlite Driver
 
-![CI](https://github.com/newQian/sqlite/workflows/CI/badge.svg)
+![CI](https://github.com/hello-xnew/sqlite/workflows/CI/badge.svg)
 
 ## 使用 modernc.org/sqlite 驱动纯go实现,不需要cgo支持
 
