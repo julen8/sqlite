@@ -3,7 +3,7 @@ module github.com/hello-xnew/sqlite
 go 1.17
 
 require (
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	gorm.io/gorm v1.22.4
 	modernc.org/sqlite v1.14.1
 )
